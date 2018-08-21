@@ -1,6 +1,0 @@
-# format
-*Icon?
-*.DS_Store
-*.pdf
-!*summary* || !*Summary*
-*gslides
