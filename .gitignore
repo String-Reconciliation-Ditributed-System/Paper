@@ -4,4 +4,4 @@
 *.pdf
 !*summary*
 *gslides
-!Summary*
+!*Summary__*
