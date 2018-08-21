@@ -1,0 +1,5 @@
+# format
+*.DS_Store
+*.Icon/r
+# Summaries
+!*Summary*
