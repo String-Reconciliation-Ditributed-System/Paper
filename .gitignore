@@ -1,5 +1,7 @@
 # format
 *.DS_Store
 *.Icon/r
+*.g*
+*.pdf
 # Summaries
 !*Summary*
